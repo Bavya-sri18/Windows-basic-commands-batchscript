@@ -24,40 +24,61 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 
+<img width="507" height="101" alt="image" src="https://github.com/user-attachments/assets/5d2214ec-d4b7-4679-ad11-167c0cc51d67" />
+
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
 
-## COMMAND AND OUTPUT
+<img width="427" height="107" alt="image" src="https://github.com/user-attachments/assets/35545dd6-7841-495d-830b-daa90d29b754" />
 
+## COMMAND AND OUTPUT
 
 Create the file Rose.txt
 
+<img width="650" height="368" alt="image" src="https://github.com/user-attachments/assets/cf4a3c36-63f4-4d7b-9bce-a92f0329833d" />
+
+
 ## COMMAND AND OUTPUT
 
-
 Create the file hello.txt using echo and redirection
+
+<img width="573" height="187" alt="image" src="https://github.com/user-attachments/assets/f722926a-7fb3-40e4-b185-3e5cb1ec9f63" />
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
 
+<img width="532" height="117" alt="image" src="https://github.com/user-attachments/assets/241678ad-836f-46fd-ae36-22467b859a54" />
+
+
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+
+<img width="372" height="107" alt="image" src="https://github.com/user-attachments/assets/4f545cf3-a6ca-4008-b63c-29734bd43101" />
+
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
 
+<img width="477" height="226" alt="image" src="https://github.com/user-attachments/assets/369b002e-18e0-45c4-a04e-bd473a992d9d" />
+
+
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+
+<img width="587" height="837" alt="image" src="https://github.com/user-attachments/assets/854510f7-e9e4-461b-9fb6-0791b9a5a55b" />
+
 
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
+
+
 
 ## COMMAND AND OUTPUT
 
