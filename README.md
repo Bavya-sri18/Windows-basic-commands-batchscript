@@ -1,5 +1,3 @@
-# Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
 
 # AIM:
 To execute Windows basic commands and batch scripting
@@ -75,10 +73,9 @@ List out all the associated file extensions
 
 ## COMMAND AND OUTPUT
 
-
 Compare the file hello.txt and rose.txt
 
-
+<img width="443" height="217" alt="image" src="https://github.com/user-attachments/assets/8aac2f6e-996c-45a3-a35d-f6b264401c70" />
 
 ## COMMAND AND OUTPUT
 
@@ -86,11 +83,9 @@ Compare the file hello.txt and rose.txt
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
 
-
-
-
 ## OUTPUT
 
+<img width="452" height="92" alt="image" src="https://github.com/user-attachments/assets/228b9cfe-2de0-4dba-bb5b-bdfc297db11d" />
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -105,18 +100,15 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-
-
-
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
+<img width="580" height="236" alt="image" src="https://github.com/user-attachments/assets/faf00443-0d84-4ced-ab61-a21edf9b3c0c" />
 
 
 
 ## OUTPUT
 
-
-
+<img width="447" height="183" alt="image" src="https://github.com/user-attachments/assets/8b90c06a-2e0f-41a8-afe8-8dab375d6783" />
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 
@@ -128,6 +120,7 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
+<img width="663" height="277" alt="image" src="https://github.com/user-attachments/assets/2067d0d4-7a63-4e2d-ad9b-b5b97847bfbc" />
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -138,6 +131,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
+<img width="557" height="422" alt="image" src="https://github.com/user-attachments/assets/366dc73f-a15f-4646-b6a3-8bc02aa60395" />
 
 
 # RESULT:
